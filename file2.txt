@@ -1,1 +1,2 @@
-third line to file2.txt .. wrong line
+this is file two, developed locally
+amending it on GitHub, have a nice day Mo
