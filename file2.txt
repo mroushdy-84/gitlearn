@@ -1,3 +1,4 @@
 this is file two, developed locally
 amending it on GitHub, have a nice day Mo
 this is a fourth line -- bug
+amending file2
