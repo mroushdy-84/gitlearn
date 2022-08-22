@@ -2,3 +2,4 @@
 Remotely, updating file1.txt on Github bob
 another local file
 second-branch new line in file1.txt
+B2 branch update file1.txt
