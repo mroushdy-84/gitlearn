@@ -1,6 +1,4 @@
 123
-<<<<<<< HEAD
 Remotely, updating file1.txt on Github bob
-=======
 another local file
->>>>>>> second
+second-branch new line in file1.txt
