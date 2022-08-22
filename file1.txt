@@ -1,2 +1,3 @@
 123
 another local file
+second-branch new line in file1.txt
